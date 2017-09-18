@@ -1,5 +1,5 @@
 # ReactNative-MedicineFinder-
-# This demo project helps you identify meds on bases of there appearance. It also helps you find drugs which contains the same formula. There is one more feature which finds the closest Hospital.
+This demo project helps you identify meds on bases of there appearance. It also helps you find drugs which contains the same formula. There is one more feature which finds the closest Hospital.
 
 # Credit
 1) https://rximage.nlm.nih.gov/api
@@ -7,7 +7,7 @@
 3) React-Native community
 
 # HOME Screen
-<img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Home.png" style=" width:50px ; height:50px " />
+<img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Home.png" style=" width:50 ; height:50" />
 
 # Menu Screen
 <img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Menu1.png" style=" width:50px ; height:50px " />
