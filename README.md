@@ -7,7 +7,7 @@ This demo project helps you identify meds on bases of there appearance. It also 
 3) React-Native community
 
 # HOME Screen
-<img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Home.png" width="250" height="300" />
+<img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Home.png" width="250" height="500" />
 
 # Menu Screen
 <img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Menu1.png" style=" width:50px ; height:50px " />
