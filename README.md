@@ -1,4 +1,8 @@
 # ReactNative-MedicineFinder-
 This is a demo Project which I created for learning React native.
-<img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Menu1.png" style=" width:50px ; height:50px " />
 
+
+<div align="center">
+        <img width="45%" src="ScreenShots/Home.PNG" alt="About screen" title="About screen"</img>
+        <img height="0" width="8px">
+</div>
