@@ -17,4 +17,19 @@ This demo project helps you identify meds on bases of there appearance. It also 
   <img src="https://github.com/Nexengineer/ReactNative-MedicineFinder-/raw/master/ScreenShots/Menu4.png" width="250" height="400" />
 </p>
 
-"Copyright © 2017 Neeraj Mishra: Do not rely on App to make decisions regarding medical care. While data is accurate, you should assume all results are unvalidated. Source code is free to use, modify, Distribute. App is not responsible for any thing in any terms”,
+
+License
+=======
+Copyright 2018 Neeraj Kumar Mishra
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
